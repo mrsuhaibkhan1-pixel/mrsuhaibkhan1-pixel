@@ -120,7 +120,7 @@
 | ⚙️ **APIs & Backend** | REST APIs, databases, scalable server logic |
 
 <p align="center">
-  <a href="mailto:tricksxtech@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-00c6ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire me"/></a>
+  <a href="mailto:mrsuhaibkhan1@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-00c6ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire me"/></a>
 </p>
 
 ---
