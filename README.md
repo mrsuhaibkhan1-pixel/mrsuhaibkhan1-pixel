@@ -1,7 +1,7 @@
 <!-- ================= HERO ================= -->
 
 <p align="center">
-  <img src="assets/banner.svg" alt="TricksXTech banner" width="100%"/>
+  <img src="assets/banner.svg" alt="mrsuhaibkhan1-pixel banner" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Suhaib Ahmed Khan</h1>
@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TricksXTech"><img src="https://komarev.com/ghpvc/?username=TricksXTech&label=Profile%20Views&color=0072ff&style=for-the-badge" alt="Profile views"/></a>
-  <a href="https://github.com/TricksXTech?tab=followers"><img src="https://img.shields.io/github/followers/TricksXTech?style=for-the-badge&logo=github&color=00c6ff&labelColor=1a1b27" alt="Followers"/></a>
-  <a href="https://github.com/TricksXTech?tab=repositories"><img src="https://img.shields.io/github/stars/TricksXTech?style=for-the-badge&logo=github&color=0072ff&labelColor=1a1b27" alt="Stars"/></a>
+  <a href="https://github.com/mrsuhaibkhan1-pixel"><img src="https://komarev.com/ghpvc/?username=mrsuhaibkhan1-pixel&label=Profile%20Views&color=0072ff&style=for-the-badge" alt="Profile views"/></a>
+  <a href="https://github.com/mrsuhaibkhan1-pixel?tab=followers"><img src="https://img.shields.io/github/followers/mrsuhaibkhan1-pixel?style=for-the-badge&logo=github&color=00c6ff&labelColor=1a1b27" alt="Followers"/></a>
+  <a href="https://github.com/mrsuhaibkhan1-pixel?tab=repositories"><img src="https://img.shields.io/github/stars/mrsuhaibkhan1-pixel?style=for-the-badge&logo=github&color=0072ff&labelColor=1a1b27" alt="Stars"/></a>
 </p>
 
 <p align="center">
@@ -61,12 +61,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TricksXTech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TricksXTech&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mrsuhaibkhan1-pixel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsuhaibkhan1-pixel&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TricksXTech&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=mrsuhaibkhan1-pixel&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
@@ -89,9 +89,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TricksXTech/TricksXTech/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TricksXTech/TricksXTech/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/TricksXTech/TricksXTech/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrsuhaibkhan1-pixel/mrsuhaibkhan1-pixel/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrsuhaibkhan1-pixel/mrsuhaibkhan1-pixel/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/mrsuhaibkhan1-pixel/mrsuhaibkhan1-pixel/output/github-contribution-grid-snake.svg"/>
   </picture>
 </p>
 
@@ -100,11 +100,11 @@
 ## 📦 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/TricksXTech/badge-combo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TricksXTech&repo=badge-combo&theme=tokyonight&hide_border=true" alt="badge-combo"/>
+  <a href="https://github.com/mrsuhaibkhan1-pixel/badge-combo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrsuhaibkhan1-pixel&repo=badge-combo&theme=tokyonight&hide_border=true" alt="badge-combo"/>
   </a>
-  <a href="https://github.com/TricksXTech/Crypto-ERC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TricksXTech&repo=Crypto-ERC&theme=tokyonight&hide_border=true" alt="Crypto-ERC"/>
+  <a href="https://github.com/mrsuhaibkhan1-pixel/Crypto-ERC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrsuhaibkhan1-pixel&repo=Crypto-ERC&theme=tokyonight&hide_border=true" alt="Crypto-ERC"/>
   </a>
 </p>
 
