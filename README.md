@@ -1,32 +1,158 @@
-<h1 align="center">Hi 👋, I'm Suhaib Ahmed Khan</h1>
+<!-- ================= HERO ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Welcome+to+my+GitHub;Open+Source+Developer;Freelancer+Ready" />
+  <img src="assets/banner.svg" alt="TricksXTech banner" width="100%"/>
 </p>
 
-## 🚀 About Me
-- GitHub: **@mrsuhaibkhan1-pixel**
-- Profile Type: **freelancer**
+<h1 align="center">Hi 👋, I'm Suhaib Ahmed Khan</h1>
+<h3 align="center">🚀 Freelancer | Frontend & Blockchain Developer</h3>
 
-## 🛠 Skills
-- HTML
-- CSS
-- JS
-- PHP
-- Kotlin
-- Java
-- Rust
-- Python
+<p align="center">
+  <b>Known as Mr. Suhaib</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/TricksXTech"><img src="https://komarev.com/ghpvc/?username=TricksXTech&label=Profile%20Views&color=0072ff&style=for-the-badge" alt="Profile views"/></a>
+  <a href="https://github.com/TricksXTech?tab=followers"><img src="https://img.shields.io/github/followers/TricksXTech?style=for-the-badge&logo=github&color=00c6ff&labelColor=1a1b27" alt="Followers"/></a>
+  <a href="https://github.com/TricksXTech?tab=repositories"><img src="https://img.shields.io/github/stars/TricksXTech?style=for-the-badge&logo=github&color=0072ff&labelColor=1a1b27" alt="Stars"/></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=650&lines=Professional+Web+Developer;Telegram+Bot+Expert;Crypto+%26+Blockchain+Enthusiast;Building+Scalable+Systems" alt="Typing animation"/>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently building **Telegram bots**, **Web3 tools** and **scalable backends**
+- 🌱 Learning **smart contracts** and advanced **blockchain architecture**
+- 💬 Ask me about **frontend, APIs, Telegram bots, crypto/ERC tokens**
+- ⚡ Fun fact: I turn ideas into working products fast
+- 📫 Open for **freelance projects**: reach me through the links below
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🦈_Pull_Shark-0072ff?style=for-the-badge&labelColor=1a1b27" alt="Pull Shark"/>
+  <img src="https://img.shields.io/badge/⚡_Quickdraw-00c6ff?style=for-the-badge&labelColor=1a1b27" alt="Quickdraw"/>
+  <img src="https://img.shields.io/badge/🤝_Pair_Extraordinaire-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="Pair Extraordinaire"/>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,py,mysql,mongodb,linux,git,github,bootstrap,tailwind,flutter,androidstudio,docker,vercel,postman&perline=10" alt="Tech stack"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bots"/>
+  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
+</p>
+
+---
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mrsuhaibkhan1-pixel&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mrsuhaibkhan1-pixel&theme=tokyonight" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TricksXTech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TricksXTech&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TricksXTech&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+---
+
+## 📈 Profile Summary
+
+<p align="center">
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" width="49%"/>
+  <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" width="49%"/>
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" width="49%"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TricksXTech/TricksXTech/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TricksXTech/TricksXTech/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/TricksXTech/TricksXTech/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</p>
+
+---
+
+## 📦 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/TricksXTech/badge-combo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TricksXTech&repo=badge-combo&theme=tokyonight&hide_border=true" alt="badge-combo"/>
+  </a>
+  <a href="https://github.com/TricksXTech/Crypto-ERC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TricksXTech&repo=Crypto-ERC&theme=tokyonight&hide_border=true" alt="Crypto-ERC"/>
+  </a>
+</p>
+
+---
 
 ## 💼 Freelance Services
-- Website Development
-- Bots & Automation
-- API Integration
-- Crypto / Web3 Tools
 
-📩 Contact me for work!
+| Service | What I deliver |
+|---|---|
+| 🌐 **Websites** | Fast, responsive, modern frontends and landing pages |
+| 🤖 **Telegram Bots** | Custom bots: automation, payments, admin panels |
+| 💳 **Crypto / Web3** | Token contracts, wallet integrations, dApp frontends |
+| ⚙️ **APIs & Backend** | REST APIs, databases, scalable server logic |
+
+<p align="center">
+  <a href="mailto:tricksxtech@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-00c6ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire me"/></a>
+</p>
+
+---
+
+## 🎬 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- Auto-filled by the youtube-videos workflow (optional, see setup notes) -->
+<!-- YOUTUBE:END -->
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://youtube.com/c/#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://instagram.com/#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:mrsuhaibkhan1@gmail.com"><img src="https://img.shields.io/badge/Email-0072ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://t.me/#"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://github.com/mrsuhaibkhan1-pixel"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
+</p>
+
+<p align="center">
+  ⭐ Star my repos if you like my work
+</p>
+
+<p align="center">
+  <img src="assets/footer.svg" alt="Footer" width="100%"/>
+</p>
